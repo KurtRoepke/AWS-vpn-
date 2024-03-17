@@ -58,13 +58,13 @@ Next click on the instance and then choose connect.
 <img src="images/vpn8.png" height="70%" width="70%"/>
 
 
-!After connecting to the instance go to ssh client and copy the example.
-<img src="Images/9.png" height="70%" width="70%" />
+!After connecting to the instance go to ssh client and copy the code example.
+<img src="images/sshwebn.png" height="70%" width="70%" />
 
 
 
 ! Next open powershell and paste the command and, change the location of the file if needed
-<img src="Images/10.png" height="70%" width="70%"  />
+<img src="images/sshpowern.png" height="70%" width="70%"  />
 
 
 
