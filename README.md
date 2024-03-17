@@ -37,7 +37,7 @@ After go to AWS marketplace AMI's and, choose the open vpn option.
 
 
 
- select subscribe now.
+ Go to the bottom right corner and press subscribe now.
 <img src="images/vpn4.png" height="70%" width="70%" />
 
 
