@@ -1,5 +1,5 @@
 # AWS-vpn-
-<!--<h1>AWS openvpn server</h1>
+<h1>AWS openvpn server</h1>
 
  
 
@@ -82,7 +82,7 @@ your password will be auto generated if you dont put one in yourself or you can 
 <img src="Images/.png" height="70%" width="70%"  />
 
 
-Next put your url in the search bar you will get a prompt saying you connection is not private its ok just click proceed.
+Next put your url in the search bar you will get a prompt saying you connection is not private its ok just click andaved and proceed.
 <img src="Images/warning.png" height="70%" width="70%"  />-->
 
 
@@ -97,30 +97,10 @@ next it will ask you to download the application for your os microsoft will give
 <img src="Images/8.png" height="70%" width="70%"/>
 
 
-
+Finaly click the openvpn icon on your desktop and turn it on and, after you log in you are done and secure.
 <img src="Images/9.png" height="70%" width="70%" />
 
 
 
  
-<img src="Images/10.png" height="70%" width="70%"  />
 
-
-
-
-<img src="Images/11.png" height="70%" width="70%" />
-
-
- 
-<img src="Images/5.png" height="70%" width="70%"  />
-
-
-
-
-<img src="Images/6.png" height="70%" width="70%"  />
-
-
-<img src="Images/7.png" height="70%" width="70%"  />-->
-
--->
--->
