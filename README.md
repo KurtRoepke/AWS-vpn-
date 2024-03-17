@@ -21,6 +21,7 @@
 
 <h2>Program walk-through:</h2>
 
+ 
 First log into your AWS account scroll down to launch a virtual machine ec2.
 <img src="images/vpn1.png" height="70%" width="70%"/>
 
@@ -58,17 +59,18 @@ Next click on the instance and then choose connect.
 <img src="images/vpn8.png" height="70%" width="70%"/>
 
 
-!After connecting to the instance go to ssh client and copy the code example.
+
+After connecting to the instance go to the ssh client and copy the code example.
 <img src="images/sshwebn.png" height="70%" width="70%" />
 
 
 
-! Next open powershell and paste the command and, change the location of the file if needed
+ Open powershell and paste the command and, change the location of the file if needed
 <img src="images/sshpowern.png" height="70%" width="70%"  />
 
 
 
-Next its going to want you to log in with a new username it provides so using the same command replace root with the new username.
+ Next its going to want you to log in with a new username it provides so using the same command replace root with the new username.
 <img src="images/11n.png" height="70%" width="70%" />
 
 
@@ -78,7 +80,7 @@ Just keep pressing enter to select the default settings remeber the https url we
 
 
 
-your password will be auto generated if you dont put one in yourself or you can just change it later using the passwd comand 
+Your password will be auto generated if you dont put one in yourself or you can just change it later using the passwd comand 
 <img src="images/passwordn.png" height="70%" width="70%"  />
 
 
@@ -90,16 +92,19 @@ log into the vpn admin account and change the setting to route all traffic throu
 <img src="images/vpnsettings.png" height="70%" width="70%"  />
 
 
-! Next to log into the client account is the same just delete the admin in the search bar.
+
+ After, log into the client account is the same just delete the admin in the search bar.
 <img src="images/userpor2.png" height="70%" width="70%" />
+
+
 
 Next you will need to download the application for your os. Microsoft will give you a warning but its ok just keep hitting next
 <img src="images/eula.png" height="70%" width="70%"/>
 
 
+
 Finaly click the openvpn icon on your desktop and turn it on and, after you log in you are done and secure.
 <img src="images/finallogin.png" height="70%" width="70%" />
-
 
 
  
