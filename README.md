@@ -4,7 +4,7 @@
  
 
 <h2>Description</h2>
-<b>In this repository we go over creating an open vpn server using AWD's cloud. Next i explain how to ssh into that machine by using windows powershell and, finally how to log into the admin and client accounts from the web browser.</b>
+<b>This repository is about creating an open vpn server using AWD's cloud.I explain how to ssh into that machine by using windows powershell and, finally how to log into the admin and client accounts from the web browser.</b>
 
 
 <h2>Utilities Used</h2>
