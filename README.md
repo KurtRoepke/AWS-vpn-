@@ -46,7 +46,7 @@ After go to AWS marketplace AMI's and, choose the open vpn option.
 
 
 
-You will be asked to create a new key pair create a new name in the box provided.
+You will be asked to create a new key pair. Create a new name in the box provided.
 <img src="Images/6.png" height="70%" width="70%"  />
 
 
@@ -63,12 +63,12 @@ next go to ssh client and copy the example.
 
 
 
- After that open powershell and paste the command and, change the location of the file if needed
+ Next open powershell and paste the command and, change the location of the file if needed
 <img src="Images/10.png" height="70%" width="70%"  />
 
 
 
-Next its going to want you to log in as another user so using the same command replace root with the new user.
+Next its going to want you to log in with a new username it provides so using the same command replace root with the new username.
 <img src="Images/11.png" height="70%" width="70%" />
 
 
@@ -78,20 +78,19 @@ Next just keep pressing enter to select the default settings remeber the https u
 
 
 
-your password will be auto generated if you dont put one in yourself.
+your password will be auto generated if you dont put one in yourself or you can just change it later using the passwd comand 
 <img src="Images/.png" height="70%" width="70%"  />
 
 
-Next add your url here it will prompt you saying your connection is not private its ok.
-<img src="Images/12.png" height="70%" width="70%"  />-->
+Next put your url in the search bar you will get a prompt saying you connection is not private its ok just click proceed.
+<img src="Images/warning.png" height="70%" width="70%"  />-->
 
 
 log into the vpn admin account and change the setting to route all traffic through the vpn.
-<img src="Images/6.png" height="70%" width="70%"  />
+<img src="Images/vpnsettings.png" height="70%" width="70%"  />
 
 
-
-Next to log into the vpn client account just type in the ip address and the port number.
+Next to log into the client account is the same just delete the admin in the search bar.
 <img src="Images/7.png" height="70%" width="70%" />
 
 next it will ask you to download the application for your os microsoft will give you a warning the click download anyway.
