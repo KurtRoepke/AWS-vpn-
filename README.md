@@ -22,12 +22,12 @@
 <h2>Program walk-through:</h2>
 
 First log into your AWS account scroll down to launch a virtual machine ec2.
-<img src="Images/1.png" height="70%" width="70%"/>
+<img src="Images/vpn1.png" height="70%" width="70%"/>
 
 
 
 Next scroll down to quickstart and choose browse more AMI's.
-<img src="Images/2.png" height="70%" width="70%" />
+<img src="Images/vpn2.png" height="70%" width="70%" />
 
 
 
