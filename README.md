@@ -68,12 +68,12 @@ After connecting to the instance go to the ssh client and copy the code example.
 
 
  Next its going to want you to log in with a new username it provides so using the same command replace root with the new username.
-<img src="images/11n.png" height="70%" width="70%" />
+<img src="images/vpn11n.png" height="70%" width="70%" />
 
 
  
 Just keep pressing enter to select the default settings remeber the https url we will need that to log in later.
-<img src="images/11.5n.png" height="70%" width="70%"  />
+<img src="images/vpn11.5n.png" height="70%" width="70%"  />
 
 
 
