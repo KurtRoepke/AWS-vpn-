@@ -47,7 +47,7 @@ After go to AWS marketplace AMI's and, choose the open vpn option.
 
 
 
-You will be asked to create a new key pair. Create a new name in the box provided. Make sure the keypair file was downloaded its a .pem for ssh.
+You will be asked to create a new key pair. Create a new name in the box provided. Make sure the keypair file was downloaded.
 <img src="images/vpn6.png" height="70%" width="70%"  />
 
 
